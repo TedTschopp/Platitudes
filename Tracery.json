@@ -4,7 +4,7 @@
 	  ],
 	 "origin":"{svg #svgImg#}",
 	 "platitude": [
-		"To #Step1# in these #Step2# our top priority is #Step3#.  But while we are #Step4# we are also #Step5# and together #Step6#.  Now, more than ever #Step7#"
+		"To #Step1# in these #Step2# times our top priority is #Step3#.  But while we are #Step4# we are also #Step5# and together #Step6#.  Now, more than ever #Step7#"
 
 	],
 	"Step1": [
@@ -13,11 +13,59 @@
 		"our team and valued customers"
 	],
 	"Step2": [
-		"difficult",
-		"challenging times",
-		"uncertain times",
-		"unprecedented times"
+	"Ambiguous",
+"Arduous",
+"Baffling",
+"Bewildering",
+"Brutal",
+"Burdensome",
+"Challenging",
+"Complex",
+"Complicated",
+"Confusing",
+"Daunting",
+"Demanding",
+"Distressing",
+"Draining",
+"Exacting",
+"Exhausting",
+"Fatiguing",
+"Formidable",
+"Frustrating",
+"Grim",
+"Grueling",
+"Hard",
+"Harsh",
+"Heavy",
+"Intimidating",
+"Involved",
+"Merciless",
+"Onerous",
+"Opaque",
+"Oppressive",
+"Painful",
+"Perplexing",
+"Problematic",
+"Punishing",
+"Rigorous",
+"Rocky",
+"Rough",
+"Serious",
+"Severe",
+"Strenuous",
+"Stressful",
+"Taxing",
+"Testing",
+"Thorny",
+"Tiring",
+"Tough",
+"Tricky",
+"Troublesome",
+"Trying",
+"Wearing"
 	],
+
+
 	"Step3": [
 		"protecting the communities, we serve",
 		"serving the communities, we protect",
