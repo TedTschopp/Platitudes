@@ -104,7 +104,7 @@
 		"transportation and logistics ",
 		"information technology",
 		"govermental and community-based",
-		"manufactoring",
+		"manufacturing",
 		"financial services"
 	],
 	"Step6": [
@@ -126,9 +126,36 @@
 		"baseball", "basketball", "hockey"
 	],
 	"Step7": [
-		"we need to remember the lessons our founding fathers taught us of #FFValues#"
+		"we need to remember what our founding fathers taught us about the dangers of #FFVice# and the importance of #FFValues#"
 	],
+	"FFVice": [
+		"ambition",
+		"avarice",
+		"deception",
+		"demagoguery",
+		"hubris",
+		"injustice",
+		"political intolerance"
+	],
+
+
 	"FFValues": [
+		"civil discourse.",
+		"contributing to our community.",
+		"courage.",
+		"honor.",
+		"humility.",
+		"integrity.",
+		"initiative.",
+		"justice.",
+		"moderation.",
+		"perseverance.",
+		"respect.",
+		"responsibility.",
+		"resourcefulness.",
+		"self-governance.",
+		"vigilance.",
+
 		"perseverance.",
 		"heroic sacrifice.",
 		"Freedom!"
