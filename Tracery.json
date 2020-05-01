@@ -1,0 +1,68 @@
+{
+	  "svgImg":[
+    		"<svg width=\"600\" height=\"300\" viewBox=\"0 0 600 300\"><rect x=\"0\" y=\"0\" width=\"600\" height=\"300\" fill=\"white\"></rect><foreignObject fill=\"white\" width=\"600\" hight=\"300\"><p style=\"background-color: white\" xmlns=\"http://www.w3.org/1999/xhtml\">#platitude#</p></foreignObject></svg>"
+	  ],
+	 "origin":"{svg #svgImg#}",
+	 "platitude": [
+		"To #Step1# in these #Step2# our top priority is #Step3#.  But while we are #Step4# we are also #Step5# and together #Step6#.  Now, more than ever #Step7#"
+
+	],
+	"Step1": [
+		"the communities we serve",
+		"our extended family",
+		"our team and valued customers"
+	],
+	"Step2": [
+		"difficult",
+		"challenging times",
+		"uncertain times",
+		"unprecedented times"
+	],
+	"Step3": [
+		"protecting the communities we serve",
+		"serving the communities we protect",
+		"our great nation"
+	],
+	"Step4": [
+		"staying safe",
+		"at home",
+		"waiting this out",
+		"citizens of this great nation"
+	],
+	"Step5": [
+		"with you",
+		"here for you",
+		"here to help",
+		"making all the things",
+		"all #Step5a#",
+		"citizens of this great nation"
+	],
+	"Step5a": [
+		"in this together",
+		"grateful to #Step5b"
+	],
+	"Step5b": [
+		"the heroes",
+		"the medical professionals",
+		"the people who keep working for us",
+		"our great country and its leaders"
+	],
+	"Step6": [
+		"we will get through this",
+		"we can help save #ThingsToSave#"
+	],
+	"ThingsToSave": [
+		"restaurants",
+		"bars",
+		"book stores",
+		"America"
+	],
+	"Step7": [
+		"we need to remember the lessons our founding fathers taught us of #FFValues#"
+	],
+	"FFValues": [
+		"perseverance.",
+		"heroic sacrifice.",
+		"Freedom!"
+	]
+}
