@@ -43,9 +43,21 @@
 	],
 	"Step5b": [
 		"the heroes",
-		"the medical professionals",
+		"the #EssentialWorkers# professionals",
 		"the people who keep working for us",
 		"our great country and its leaders"
+	],
+	"EssentialWorkers": [
+		"medical",
+		"emergancy services",
+		"food and agricultural",
+		"energy sector",
+		"water and wastewater",
+		"transportation and logistics ",
+		"information technology",
+		"govermental and community-based",
+		"manufactoring",
+		"financial services"
 	],
 	"Step6": [
 		"we will get through this",
@@ -55,7 +67,15 @@
 		"restaurants",
 		"bars",
 		"book stores",
+		"malls",
+		"movie theatres",
+		"non-essential medical procedures",
+		"Instagram Influencers",
+		"professional #sport#",
 		"America"
+	],
+	"Sports":[
+		"baseball", "basketball", "hockey"
 	],
 	"Step7": [
 		"we need to remember the lessons our founding fathers taught us of #FFValues#"
